@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ayham Alzureiqi
 
-Computer Engineering @ German Jordanian University | Passionate about Machine Learning & Cloud  
+Computer Engineering Bachelors @ German Jordanian University | Passionate about Machine Learning & Cloud  
 Currently learning PyTorch, AWS, Docker | Thinking and Building my first AI startup idea
 
 ### 🌟 About Me
