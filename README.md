@@ -25,7 +25,7 @@ Currently learning PyTorch, AWS, Codedex | Thinking and Building my first AI sta
 ### 🔥 My Latest Projects
 | Project | Description | Tech | Stars |
 |---------|-----------|------|-------|
-Still working on one!
+Looking for inspiration
 
 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Stormzz221)
