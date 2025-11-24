@@ -4,7 +4,7 @@ Computer Engineering Bachelors @ German Jordanian University | Passionate about 
 Currently learning PyTorch, AWS, Codedex | Thinking and Building my first AI startup idea
 
 ### 🌟 About Me
-- 🔭 Working on: Thinking about a project!
+- 🔭 Working on: Looking for inspiration
 - 🌱 Learning: Python, C, and AWS Cloud
 - 👯 Open to collaborate on Cloud projects
 - 💼 2026 Internships: Cloud Engineer | SWE
