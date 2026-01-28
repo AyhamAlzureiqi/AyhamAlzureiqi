@@ -1,13 +1,13 @@
-# Hi there 👋, I'm Ayham Alzureiqi
+# Hi, I'm Ayham Alzureiqi
 
 Computer Engineering Bachelors @ German Jordanian University | Passionate about Machine Learning & Cloud  
-Currently learning PyTorch, AWS, Codedex | Thinking and Building my first AI startup idea
+Currently learning PyTorch, AWS, Codedex | Currently working on projects
 
 ### 🌟 About Me
-- 🔭 Working on: Looking for inspiration
-- 🌱 Learning: Python, C, and AWS Cloud
-- 👯 Open to collaborate on Cloud projects
-- 💼 2026 Internships: Cloud Engineer | SWE
+- 🔭 Working on: C language project
+- 🌱 Learning: Python, and AWS Cloud
+- 👯 Open to collaborate on C projects
+- 💼 2026 Internships: SWE
 - 📫 Reach me: stormzz202@outlook.com | 
 
 ### 🛠 Tech Stack
