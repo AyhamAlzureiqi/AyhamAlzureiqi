@@ -25,9 +25,7 @@ Currently learning PyTorch, AWS, Codedex | Currently working on projects
 ### 🔥 My Latest Projects
 | Project | Description | Tech | Stars |
 |---------|-----------|------|-------|
-Linux Command line  
-Behaves as a terminal  
-loops,exec,fetch, etc
+Linux Command line\tBehaves as a terminal\tloops,exec,fetch, etc
 
 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Stormzz221)
