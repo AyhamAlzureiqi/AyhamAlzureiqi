@@ -4,8 +4,8 @@ Computer Engineering Bachelors @ German Jordanian University | Passionate about 
 Currently learning PyTorch, AWS, Codedex | Currently working on projects
 
 ### 🌟 About Me
-- 🔭 Working on: C language project
-- 🌱 Learning: Python, and AWS Cloud
+- 🔭 Working on: Linux Command line
+- 🌱 Learning: Python, and Digital Cloud Leader
 - 👯 Open to collaborate on C projects
 - 💼 2026 Internships: SWE
 - 📫 Reach me: stormzz202@outlook.com | 
@@ -25,7 +25,7 @@ Currently learning PyTorch, AWS, Codedex | Currently working on projects
 ### 🔥 My Latest Projects
 | Project | Description | Tech | Stars |
 |---------|-----------|------|-------|
-Looking for inspiration
+Linux Command line  Behaves as a terminal  loops,exec,fetch, etc
 
 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Stormzz221)
