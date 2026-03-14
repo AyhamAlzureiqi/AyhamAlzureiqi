@@ -14,7 +14,6 @@ Currently learning PyTorch, AWS, Codedex | Currently working on projects
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="PyTorch" width="30px" src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-dark.png" height="30" />
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
-<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
 <br/><br/>
 
 ### 📊 GitHub Stats
@@ -28,4 +27,4 @@ Currently learning PyTorch, AWS, Codedex | Currently working on projects
 Linux Command line     Behaves as a terminal\tloops,exec,fetch, etc
 
 Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/Stormzz221)
+
