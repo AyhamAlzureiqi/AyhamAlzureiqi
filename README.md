@@ -1,6 +1,6 @@
 # Hi, I'm Ayham Alzureiqi
 
-Computer Engineering Bachelors @ German Jordanian University | Passionate about Machine Learning & Cloud  
+Computer Engineering Bachelors @ German Jordanian University | Passionate about Machine Learning & Embedded systems
 Currently learning Java, Embedded systems, Codedex | Currently working on projects
 
 ###  About Me
