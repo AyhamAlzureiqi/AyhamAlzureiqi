@@ -4,11 +4,11 @@ Computer Engineering Bachelors @ German Jordanian University | Passionate about 
 Currently learning Java, Embedded systems, Codedex | Currently working on projects
 
 ###  About Me
-- 🔭 Working on: Linux Command line
-- 🌱 Learning: Java, and System level programming
-- 👯 Open to collaborate on C projects
-- 💼 2026 Internships: SWE
-- 📫 Reach me: stormzz202@outlook.com | 
+-  Working on: Malloc
+-  Learning: Java, and System level programming
+-  Open to collaborate on C projects
+-  2026 Internships: SWE
+-  Reach me: stormzz202@outlook.com | 
 
 ###  Tech Stack
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
