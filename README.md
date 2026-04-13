@@ -1,7 +1,7 @@
 # Hi, I'm Ayham Alzureiqi
 
 Computer Engineering Bachelors @ German Jordanian University | Passionate about Machine Learning & Embedded systems
-Currently learning Java, Embedded systems, Codedex | Currently working on projects
+Learning Java, and Embedded systems | Currently working on projects
 
 ###  About Me
 -  Working on: Malloc
